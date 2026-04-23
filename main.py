@@ -1,1 +1,1 @@
-print("Hello Aidil - first project 🔥")
+print("Version 2 🔥")
